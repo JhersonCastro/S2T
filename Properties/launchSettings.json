@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "S2T (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "S2T (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
